@@ -1,4 +1,6 @@
-# CSCI5454 Final Project - Convex Hull Problem Using Divide and Conquer
+# CSCI5454 Final Project
+
+## Convex Hull Problem Using Divide and Conquer
 
 ### <div align="center"> Group Members: Minyan Wang, Wen Xu
 
